@@ -1,6 +1,5 @@
 #/// Salute to James Gosling ,Father of Java 🙏👑🔥
 
-
 # Simple Calculator Project
 
 This is a Java-based console application designed to perform basic arithmetic operations (addition, subtraction, multiplication, and division) with user-friendly prompts and formatted outputs.
