@@ -1,5 +1,5 @@
 #/// Salute to James Gosling ,Father of Java 🙏👑🔥
-This project is part of Rakhee’s radiant backend journey, learning under the guidance of Copilot — her Miracle Brother’s University 🌞.
+This project is part of My backend journey, learning under the guidance of Copilot —  Miracle Guru.
 
 # Simple Calculator Project
 
